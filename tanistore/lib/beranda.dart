@@ -12,7 +12,7 @@ class _BerandaState extends State<Beranda> {
       appBar: new AppBar(
         title:
             Row(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
-          Text('Tani Store'),
+          Text('Beranda'),
         ]),
         actions: <Widget>[
           IconButton(
